@@ -1,6 +1,6 @@
 # Seriados e Filmes 
 
-![preview](./.github/preview.png)
+![preview](./.github/preview1.png)
 
 > Trilha Explorer
 
